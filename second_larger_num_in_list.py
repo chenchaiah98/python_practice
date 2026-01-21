@@ -16,4 +16,5 @@ def second_larger_num(num_list):
     
 a = [10, 20, 100, 30, 40, 50, 1000, 300, 600,3000, 700, 800]
 a=['wr','wer','as','asdasd']
+
 print(second_larger_num(a)) 
